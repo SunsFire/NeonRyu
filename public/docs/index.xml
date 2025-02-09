@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Amal – </title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content on Suresh Amal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Basic Concepts</title>
+      <link>http://localhost:1313/docs/svelte/basic-concepts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/svelte/basic-concepts/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here we will learn about what is svelte, why it is favorite for most developer and what advantages it offers&lt;/p&gt;
+&lt;h2&gt;What is Svelte&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-is-svelte&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-svelte&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

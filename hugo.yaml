@@ -1,0 +1,79 @@
+
+baseURL: https://example.org/
+languageCode: en-us
+title: Suresh Amal
+theme: hextra
+enableEmoji: true
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+params:
+  footer:
+    enable: false
+    displayCopyright: false
+    displayPoweredBy: false
+    width: normal
+menu:
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "Hugo Docs ↗"
+      url: "https://gohugo.io/documentation/"
+      weight: 2
+  main:
+    - name: Notes
+      pageRef: /notes
+      weight: 1
+    - name: Projects
+      pageRef: /projects
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/SunsFire"
+      params:
+        icon: github
+
+# defaultContentLanguage: en
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#   fr:
+#     languageName: Français
+#     weight: 2
+#   ja:
+#     languageName: 日本語
+#     weight: 3
+
+# TODO: add your logo
+# params:
+#   navbar:
+#     displayTitle: true
+#     displayLogo: true
+#     logo:
+#       path: images/logo.svg
+#       dark: images/logo-dark.svg
+#       link: /
+#       width: 40
+#       height: 20
