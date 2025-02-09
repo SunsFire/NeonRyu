@@ -27,3 +27,7 @@ layout: hextra-home
 {{< hextra/hero-button text="Get Started" link="notes" >}}
 </div>
 
+<div class="hx-mb-6">
+{{< hextra/hero-button text="for EMB" link="./notes/ebm" >}}
+</div>
+
