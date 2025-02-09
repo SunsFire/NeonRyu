@@ -1,5 +1,4 @@
 
-baseURL: https://example.org/
 languageCode: en-us
 title: Suresh Amal
 theme: hextra
@@ -26,24 +25,24 @@ params:
     displayPoweredBy: false
     width: normal
 menu:
-  sidebar:
-    - name: More
-      params:
-        type: separator
-      weight: 1
-    - name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 2
+  # sidebar:
+  #   - name: More
+  #     params:
+  #       type: separator
+  #     weight: 1
+  #   - name: "Hugo Docs ↗"
+  #     url: "https://gohugo.io/documentation/"
+  #     weight: 2
   main:
     - name: Notes
       pageRef: /notes
       weight: 1
-    - name: Projects
-      pageRef: /projects
-      weight: 2
-    - name: About
-      pageRef: /about
-      weight: 3
+    # - name: Projects
+    #   pageRef: /projects
+    #   weight: 2
+    # - name: About
+    #   pageRef: /about
+    #   weight: 3
     - name: Search
       weight: 4
       params:

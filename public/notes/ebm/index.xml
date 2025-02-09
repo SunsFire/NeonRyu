@@ -1,0 +1,168 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Amal – Economics, Business and Management</title>
+    <link>//localhost:1313/notes/ebm/</link>
+    <description>Recent content in Economics, Business and Management on Suresh Amal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="//localhost:1313/notes/ebm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/notes/ebm/cia-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/notes/ebm/cia-1/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-yellow-100 hx-bg-yellow-50 hx-text-yellow-900 dark:hx-border-yellow-200/30 dark:hx-bg-yellow-700/30 dark:hx-text-yellow-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;⚠️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;AI generated&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1&gt;📖 Unit 1: Economics&lt;/h1&gt;&lt;h2&gt;📌 Introduction to Economics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-introduction-to-economics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-introduction-to-economics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Economics is a &lt;strong&gt;social science&lt;/strong&gt; 📊 that deals with the production, distribution, and consumption of goods and services. It studies how individuals, businesses, and governments allocate &lt;strong&gt;scarce resources&lt;/strong&gt; to satisfy their &lt;strong&gt;unlimited wants&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;📌 Nature of Economics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-nature-of-economics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-nature-of-economics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;✅ &lt;strong&gt;Economics as a Science&lt;/strong&gt; 🔬&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uses &lt;strong&gt;cause-effect relationships&lt;/strong&gt; to analyze economic activities.&lt;/li&gt;
+&lt;li&gt;Applies &lt;strong&gt;mathematics and statistics&lt;/strong&gt; 📈 to study demand, supply, and price mechanisms.&lt;/li&gt;
+&lt;li&gt;Divided into:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Positive Economics&lt;/strong&gt; (Describes &amp;ldquo;what is&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Normative Economics&lt;/strong&gt; (Analyzes &amp;ldquo;what ought to be&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;✅ &lt;strong&gt;Economics as an Art&lt;/strong&gt; 🎨&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provides &lt;strong&gt;practical methods&lt;/strong&gt; for solving economic problems.&lt;/li&gt;
+&lt;li&gt;Helps in decision-making for &lt;strong&gt;investment, production, and distribution&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📝 &lt;strong&gt;Conclusion&lt;/strong&gt;: Economics is both &lt;strong&gt;a science (theoretical approach)&lt;/strong&gt; and &lt;strong&gt;an art (practical application)&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Branches of Economics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-branches-of-economics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-branches-of-economics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Microeconomics&lt;/strong&gt; 🏪: Focuses on &lt;strong&gt;individuals &amp;amp; businesses&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examines &lt;strong&gt;consumer behavior, firm decisions, and market dynamics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Analyzes demand and supply patterns, price elasticity, and market structures.&lt;/li&gt;
+&lt;li&gt;Examples: Pricing strategies, consumer purchasing behavior.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Macroeconomics&lt;/strong&gt; 🌍: Deals with &lt;strong&gt;national &amp;amp; global economy&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studies &lt;strong&gt;GDP, inflation, unemployment, fiscal &amp;amp; monetary policies&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Involves government interventions to stabilize the economy.&lt;/li&gt;
+&lt;li&gt;Examples: National income, tax policies, trade relations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Demand &amp;amp; Supply 🔄&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-demand--supply-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-demand--supply-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;🔺 Demand (Consumer Perspective)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-demand-consumer-perspective&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-demand-consumer-perspective&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;💡 &lt;strong&gt;Definition&lt;/strong&gt;: The quantity of a good or service that consumers are willing and able to purchase at different prices in a given time period.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Law of Demand&lt;/strong&gt; 📉: Higher price = Lower demand (inverse relationship).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📊 &lt;strong&gt;Factors Affecting Demand&lt;/strong&gt;: &lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Price of the commodity&lt;/strong&gt; 🏷️ – Higher price 🔼 = Lower demand 🔽.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price of related goods&lt;/strong&gt; 🔄:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Substitutes&lt;/strong&gt; 🥤 (e.g., Pepsi vs Coca-Cola) – If Pepsi&amp;rsquo;s price rises, demand for Coca-Cola increases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Complements&lt;/strong&gt; ⛽🛵 (e.g., Petrol &amp;amp; Scooters) – If petrol price rises, demand for scooters falls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consumer Income&lt;/strong&gt; 💰 – Higher income = More demand for normal goods.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Taste &amp;amp; Preferences&lt;/strong&gt; 🎭 – Changing trends affect demand.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Government Policies&lt;/strong&gt; ⚖️ – Higher taxes increase prices and reduce demand.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Population Size &amp;amp; Distribution&lt;/strong&gt; 👥 – More people = Higher demand.&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;🔻 Supply (Producer Perspective)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-supply-producer-perspective&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-supply-producer-perspective&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;💡 &lt;strong&gt;Definition&lt;/strong&gt;: The total quantity of a good or service that producers are willing and able to sell at different prices.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Law of Supply&lt;/strong&gt; 📈: Higher price = More supply (direct relationship).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📊 &lt;strong&gt;Factors Affecting Supply&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Price of Commodity&lt;/strong&gt; 🏷️ – Higher price 🔼 = More supply 🔼.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Firm Goals&lt;/strong&gt; 🎯 – Profit-oriented firms increase production when profit margins are high.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input Costs&lt;/strong&gt; 🛠️ – Higher costs (land, labor, capital) reduce supply.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technology&lt;/strong&gt; 🤖 – Advanced tech = More supply.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Government Policies&lt;/strong&gt; 📜 – High taxes reduce supply; subsidies increase it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Expectations&lt;/strong&gt; 🔮 – If prices are expected to rise, firms may reduce supply now.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Factors&lt;/strong&gt; 🌦️ – Weather, disasters, and climate impact supply.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Elasticity of Demand 🎯&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-elasticity-of-demand-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-elasticity-of-demand-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;💡 &lt;strong&gt;Measures how much demand changes in response to price/income/related goods.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;📊 Price Elasticity of Demand&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-price-elasticity-of-demand&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-price-elasticity-of-demand&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Perfectly Elastic&lt;/strong&gt; (🔄 Small price change = Huge demand change)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perfectly Inelastic&lt;/strong&gt; (🛑 Price change = No demand change)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relatively Elastic&lt;/strong&gt; (💡 Price up 10% = Demand down 20%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relatively Inelastic&lt;/strong&gt; (⚖️ Price up 10% = Demand down 5%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unitary Elastic&lt;/strong&gt; (🔄 Price up 10% = Demand down 10%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;📖 Unit 3: Management&lt;/h1&gt;&lt;h2&gt;📌 Definition of Management&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-of-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-of-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Management is the process of achieving goals&lt;/strong&gt; effectively and efficiently. 🏆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Three key aspects&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Process&lt;/strong&gt; 🔄: Includes planning, organizing, staffing, directing, and controlling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Effectiveness&lt;/strong&gt; ✅: Completing the right task at the right time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency&lt;/strong&gt; ⏳💰: Completing tasks with minimal cost and time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Roles of a Manager 🎭&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-roles-of-a-manager-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-roles-of-a-manager-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;📌 &lt;strong&gt;Interpersonal Roles&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Figurehead&lt;/strong&gt; 🏅: Represents the company in formal ceremonies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; 🎯: Guides and motivates employees.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Liaison&lt;/strong&gt; 🔄: Builds networks within and outside the company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 &lt;strong&gt;Informational Roles&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monitor&lt;/strong&gt; 🕵️‍♂️: Gathers information on company performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disseminator&lt;/strong&gt; 📢: Communicates important updates to employees.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spokesperson&lt;/strong&gt; 🎤: Represents the company in public relations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 &lt;strong&gt;Decisional Roles&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entrepreneur&lt;/strong&gt; 🚀: Drives innovation and business growth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disturbance Handler&lt;/strong&gt; ⚠️: Resolves internal and external conflicts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Allocator&lt;/strong&gt; 🏦: Manages company resources efficiently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Negotiator&lt;/strong&gt; 🤝: Engages in contracts and business deals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Maslow’s Hierarchy of Needs 🎯&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-maslows-hierarchy-of-needs-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-maslows-hierarchy-of-needs-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Physiological Needs&lt;/strong&gt; 🍞: Salary, safe working conditions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety Needs&lt;/strong&gt; 🏥: Job security, benefits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Belonging Needs&lt;/strong&gt; 🤝: Team bonding, workplace culture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Esteem Needs&lt;/strong&gt; 🏆: Recognition, promotions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-Actualization&lt;/strong&gt; 🚀: Career growth, challenging work.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
